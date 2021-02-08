@@ -13,6 +13,8 @@ It's up to you how you deploy this script.
 
 I for example set it up as a cronjob in my [Zone](https://www.zone.ee/) virtual server.
 
+## Does this sh*t actually work?
+
 This script has already paid off.  
 Got notification as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01`.  
 Was one of the first who was able to make a purchase.  
