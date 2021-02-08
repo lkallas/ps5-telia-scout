@@ -1,0 +1,21 @@
+{
+  "name": "ps5-telia-scout",
+  "version": "1.0.0",
+  "description": "Simple bot for scouting PS5 console from Telia e-shop and notifying with SMS if some found.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "ps5",
+    "playstation",
+    "bot",
+    "messente",
+    "telia"
+  ],
+  "author": "Lennar Kallas",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
