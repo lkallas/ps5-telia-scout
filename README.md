@@ -4,7 +4,9 @@
 This script is looking for Playstation 5 consoles from Telia's [e-shop](https://pood.telia.ee/mangukonsoolid?manufacturers=Sony) via their API.
 
 This script is using [Messente's SMS API](https://messente.com/documentation/sms-messaging/api-reference) 
-for delivering SMS notifications.
+for delivering SMS notifications.  
+
+Also e-mail notifications can be set up just by providing proper Gmail credentials and e-mail recipients.
 
 To set this script up you need to provide API username and password and an array of phone numbers 
 you want to send the notification to. Please do so in the [index.js](./index.js) file header.
@@ -25,7 +27,7 @@ I for example set it up as a cronjob in my [Zone](https://www.zone.ee/) virtual 
 ## Does this sh*t actually work?
 
 This script has already paid off.  
-Got notification as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01`.  
+Got notifications as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01` and `2021-03-08 18:05:00`.  
 Was one of the first who was able to make a purchase.  
 
 Minutes later PS5 was sold out again. Got lucky!
