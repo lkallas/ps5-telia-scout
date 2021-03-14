@@ -18,16 +18,19 @@ I for example set it up as a cronjob in my [Zone](https://www.zone.ee/) virtual 
 1. Install NodeJS with NPM. https://nodejs.org/en/download/
 2. Download this code (at least `index.js` & `package.json`).
 3. Set up your Messente account and get your API credentials. You should get 1€ free credit as well. https://dashboard.messente.com/register
-4. Update credentials and SMS recipients in the code.
+4. Update credentials and e-mail/SMS recipients in the code.
 5. To install script dependencies run `npm install`.
-6. To start this script run `npm start`.
+6. To run this script run `npm start`.
 7. Repeat step 6. You can schedule a repeating task in Windows task scheduler, set up a cronjob, modify this script to run in a loop. You pick what suits best for your needs or technical skills.
 
 
 ## Does this sh*t actually work?
 
 This script has already paid off.  
-Got notifications as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01` and `2021-03-08 18:05:00`.  
+
+![6 x Playstation 5](https://lennar.eu/ps5/6x_ps5_1.jpg)  
+
+Got notifications as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01` and `2021-03-08 18:05:00` (notice a pattern there?).  
 Was one of the first who was able to make a purchase.  
 
 Minutes later PS5 was sold out again. Got lucky!
