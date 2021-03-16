@@ -1,9 +1,12 @@
 # Telia PS5 scout
 
 **ATTENTION!**  
+
 This script is obsolete due to the fact that Telia has taken action against this script, therefore it will not function correctly anymore.  
+
 I will **NOT** provide any workarounds.  
-Let's give *normal people* some fighting chance to get their PS5 next time it's in Telia stock. Peace!
+
+Let's give *normal people* some fighting chance to get their PS5 next time it's back in Telia's stock. Peace!
 
 ## Setup
 This script is looking for Playstation 5 consoles from Telia's [e-shop](https://pood.telia.ee/mangukonsoolid?manufacturers=Sony) via their API.
