@@ -2,9 +2,12 @@
 
 **ATTENTION!**  
 
-This script is obsolete due to the fact that Telia has taken action against this script, therefore it will not function correctly anymore.  
+This script is obsolete due to the fact that Telia has taken action against this script, therefore it will not function correctly anymore. 
 
-I will **NOT** provide any workarounds.  
+1. API will response with HTTP 200 and empty body if the `user-agent` header contains `node-fetch`.
+2. HTTP 403 is returned when IP is blacklisted. 
+
+These restrictions can easily be overcome. But I will **NOT** provide any public workarounds.  
 
 Let's give *normal people* some fighting chance to get their PS5 next time it's back in Telia's stock. Peace!
 
