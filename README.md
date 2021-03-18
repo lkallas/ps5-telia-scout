@@ -39,8 +39,6 @@ I for example set it up as a cronjob in my [Zone](https://www.zone.ee/) virtual 
 
 This script has already paid off.  
 
-![6 x Playstation 5](https://lennar.eu/ps5/6x_ps5_1.jpg)  
-
 Got notifications as soon as PS5 was back in stock in Telia's e-shop at `2021-02-08 16:45:01` and `2021-03-08 18:05:00` (notice a pattern there?).  
 Was one of the first who was able to make a purchase.  
 
